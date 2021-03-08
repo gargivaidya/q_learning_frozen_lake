@@ -1,1 +1,1 @@
-# q_learning_frozen_lake
+# Q Learning Implemented for Frzoen Lake Gym Environment
